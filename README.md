@@ -29,19 +29,19 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:   
    
-   bash 
+   ```bash 
    cd comment-system    
 
 3. Install all dependencies using npm or yarn package manager:
 
-   bash
+   ```bash
    npm install
    #or
    yarn install
 
 4. Start the development server with the following command:
 
-   bash
+   ```bash
    npm run dev
    #or
    yarn start
